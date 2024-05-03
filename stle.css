@@ -1,0 +1,103 @@
+*{
+   
+}
+#gray{
+    background: gray;
+}
+#ff{
+    background-color:grey;
+}
+#x{
+    float: inline-start;
+    background: none;
+    border: none;
+    font-size: x-large;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+#img{
+    width: 50px;
+    vertical-align: top;
+    padding-top: 5px;
+}
+#Twitter{
+    font-size: xx-large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#contant{
+    text-align: center;
+    background-color: white;
+    vertical-align: middle;
+    margin: auto;
+    border: solid;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    width: 400px;
+    margin-top: 300px;
+    padding-top: 0px;
+    height: 500px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-top-right-radius: 15px;
+}
+.bold{
+    font-weight: bold;
+}
+.f1{
+    
+}
+.f2{
+    width: 250px;
+    border: solid;
+    display: inline-block;
+    border-radius: 13px;
+    height: 25px;
+    border-color: gainsboro;
+    text-align: center;
+    border-left-width: 1.5px;
+    border-right-width: 1.5px;
+    border-bottom-width: 1.5px;
+    border-top-width: 1.5px;
+    margin-bottom: 10px;
+    background: white;
+    padding-bottom: 5px;
+}
+.emg{
+    width: 20px;
+}
+#or{
+    background-color: white;
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    margin-top: -18px;
+}
+#orr{
+    border: 1px solid ;
+}
+#f3{
+    width: 250px;
+    height: 35px;
+    margin-top: 10px;
+}
+#f4{
+    padding-top: 5px;
+    padding-bottom: 0px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+}
+#{
+    padding-top: 5px;
+    padding-bottom: 0px;   
+}
+#f6{
+    display: inline-flex;
+}
+#f0{
+    width: 250px;
+}
